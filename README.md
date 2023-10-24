@@ -8,30 +8,14 @@ User-defined functions are user/customer-defined blocks of code specially custom
 Library functions are also called “built-in Functions“. These functions are part of a compiler package that is already defined and consists of a special function with special and different meanings. Built-in Function gives us an edge as we can directly use them without defining them whereas in the user-defined function we have to declare and define a function before using them. <br>
 
 ## ALGORITHM
+1)Start<br>
+2)Define a set of overloaded sum functions integers and doubles as input and return their sum<br>
+3)In the main function:<br>
+a. Call each of the overloaded sum functions with various combinations of integer and double values.<br>
+b. Print the results of each function call to the console.<br>
+3)End<br>
 
-Explain what your project is, what problem it solves, and why it's valuable.
+## CONCLUSION
+This algorithm outlines the steps of the provided Cpp code, which demonstrates function overloading to handle different data types and numbers of arguments for addition. It then calls these overloaded functions with different inputs and prints the results to the console.
 
-## Features
-
-List the key features of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Demo
-
-Provide a link to a live demo of your project, if applicable. You can also include screenshots or GIFs to showcase your project's user interface.
-
-## Getting Started
-
-Guide users through the process of setting up and running your project.
-
-### Prerequisites
-
-List any software, libraries, or hardware requirements users need before they can use your project. 
-
-### Installation
-
-Provide step-by-step instructions for installing your project.
 
